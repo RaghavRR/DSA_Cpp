@@ -3,6 +3,11 @@
         "iostream": "cpp",
         "cmath": "cpp",
         "ostream": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "queue": "cpp",
+        "unordered_set": "cpp",
+        "xstring": "cpp",
+        "unordered_map": "cpp",
+        "utility": "cpp"
     }
 }
